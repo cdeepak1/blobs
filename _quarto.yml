@@ -1,0 +1,5 @@
+project:
+  output-dir: blobs
+format:
+  html:
+    embed-resources: true
